@@ -5,17 +5,27 @@ This project is a Streamlit application designed for sentiment analysis tasks. I
 Key features:
 
 Data Upload: Supports both CSV and Excel files.
+
 Data Visualization: Explore the data through word clouds and pie charts for label distribution.
+
 Model Selection: Choose from popular algorithms like Multinomial Naive Bayes, Random Forest, Logistic Regression, and SVM.
+
 Preprocessing: Handles stop word removal and TF-IDF vectorization for efficient analysis.
+
 Prediction: Make predictions on new text data with a simple button press.
+
 Accuracy Metrics: View the accuracy score of the chosen model on the test data.
+
 Benefits:
 
 Easy to use, even for users with limited technical knowledge.
+
 Flexible data input and model selection options.
+
 Interactive visualizations for deeper data understanding.
+
 Clear prediction results with accuracy metrics.
+
 Target Audience:
 
 Data analysts and researchers interested in sentiment analysis.
